@@ -1,7 +1,11 @@
 # UserAPI
 A Simple API for user built in Java.
 
-### Endpoint
+### ⚙️ Setup
+See `application.properties` into `userapi/src/main/resources`
+and edit DB password's
+
+### 🖐 Endpoint
 
 `/api/v1/users/`
 
