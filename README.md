@@ -14,7 +14,7 @@ and edit DB password's
 | :------: | :-----------: | :----------: | :-----------: | :-----------: | :-----------: |
 |  Method  |     `GET`     |    `GET`     |    `POST`     |   `DELETE`  |    `PUT`     |
 | Endpoint |    `/all`     | `/find/{id}` |    `/add`     |  `/delete/{id}`  | `/update` |
-|   Body   |               |          |      ```{ "username": "Piarre", "password": "Passwd+", "email": "pierre@ideestore.fr"} ``` | | ```{"id": 1, "uuid": "USER UUID","username": "Piarre_", "password": "Passwd++", "email": "pierre@example.com"}``` | 
+|   Body   |               |          |      ```{ "username": "", "password": "", "email": ""} ``` | | ```{"id": 1, "uuid": "","username": "", "password": "", "email": ""}``` | 
 
 -------------
 
