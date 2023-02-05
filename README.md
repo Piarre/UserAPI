@@ -3,7 +3,7 @@ A Simple API for user built in Java.
 
 ### ⚙️ Setup
 See `application.properties` into `userapi/src/main/resources`
-and edit DB password's
+and change DB's infos.
 
 ### 🖐 Endpoint
 
